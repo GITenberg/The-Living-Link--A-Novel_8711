@@ -1,0 +1,28 @@
+_repo: The-Living-Link--A-Novel_8711
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Mille, James
+    aliases:
+    - Mille, James de
+    - DeMille, James
+    birthdate: 1833
+    deathdate: 1880
+    gutenberg_agent_id: '1482'
+    url: http://www.gutenberg.org/2009/agents/1482
+    wikipedia: http://en.wikipedia.org/wiki/James_De_Mille
+description: 'Bound with:'
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Living Link: A Novel'
+url: http://www.gutenberg.org/ebooks/8711
